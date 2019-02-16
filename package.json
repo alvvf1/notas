@@ -40,6 +40,7 @@
     "express": "^4.15.2",
     "express-handlebars": "^3.0.0",
     "express-validator": "^3.2.0",
+    "glitch-deploy": "^1.1.6",
     "handy-copy": "^1.0.6",
     "handy-image-processor": "^1.0.1",
     "handy-log": "^1.0.2",
